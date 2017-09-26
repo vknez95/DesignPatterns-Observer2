@@ -1,0 +1,12 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/MotivatingExample.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/MotivatingExample.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/MotivatingExample.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/MotivatingExample.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/MotivatingExample.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/Models.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/obj/Debug/netcoreapp2.0/MotivatingExample.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/obj/Debug/netcoreapp2.0/MotivatingExample.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/obj/Debug/netcoreapp2.0/MotivatingExample.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/obj/Debug/netcoreapp2.0/MotivatingExample.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Observer2/MotivatingExample/obj/Debug/netcoreapp2.0/MotivatingExample.pdb
